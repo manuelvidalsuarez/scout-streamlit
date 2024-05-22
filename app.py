@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
 import dash
 from dash import dcc, html, Input, Output, dash_table, State
 import pandas as pd
@@ -84,6 +83,7 @@ def load_data_with_highlight(file_path, jugadores_posiciones):
 
 # Initialize Dash app
 app = dash.Dash(__name__, suppress_callback_exceptions=True)
+server = app.server  # Exponer el servidor de Flask para Gunicorn
 
 app.layout = html.Div([
     html.Div([
