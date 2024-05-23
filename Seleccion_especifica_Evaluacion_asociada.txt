@@ -1,0 +1,208 @@
+Grupo: Laterales
+Posición: Lateral
+Percentil: 70.0
+Porcentaje de Jugadores: 66.66666666666666
+Variables destacadas:
+Recuperaciones: 5 jugadores top por encima del percentil 70
+Tiros bloqueados: 4 jugadores top por encima del percentil 70
+Recuperaciones campo rival: 4 jugadores top por encima del percentil 70
+Pases JD Últ. Tercio: 4 jugadores top por encima del percentil 70
+Conducciones: 5 jugadores top por encima del percentil 70
+Goles: 4 jugadores top por encima del percentil 70
+Pase OBV: 4 jugadores top por encima del percentil 70
+Pases J.D: 5 jugadores top por encima del percentil 70
+% Pases que son hacia atrás: 4 jugadores top por encima del percentil 70
+% Pases que son hacia laterales ultimo tercio: 4 jugadores top por encima del percentil 70
+% Acierto pase: 5 jugadores top por encima del percentil 70
+% Tiros que son gol: 4 jugadores top por encima del percentil 70
+% Acierto pase presionado: 6 jugadores top por encima del percentil 70
+% Conducciones exitosas: 4 jugadores top por encima del percentil 70
+% Presiones en campo rival: 6 jugadores top por encima del percentil 70
+
+Grupo: Centrales_Salida
+Posición: Central
+Percentil: 75.00000000000001
+Porcentaje de Jugadores: 50.0
+Variables destacadas:
+Despejes: 3 jugadores top por encima del percentil 75
+Entradas: 4 jugadores top por encima del percentil 75
+Recuperaciones del equipo tras acción defensiva: 3 jugadores top por encima del percentil 75
+Acción defensiva OBV: 3 jugadores top por encima del percentil 75
+% Duelos: 3 jugadores top por encima del percentil 75
+% Acierto balón largo: 4 jugadores top por encima del percentil 75
+% Pases que son laterales: 4 jugadores top por encima del percentil 75
+% Pases que son hacia laterales ultimo tercio: 3 jugadores top por encima del percentil 75
+% Tiros a puerta: 3 jugadores top por encima del percentil 75
+% Presiones en campo rival: 3 jugadores top por encima del percentil 75
+% Presiones tras pérdida en campo rival: 4 jugadores top por encima del percentil 75
+
+Grupo: Centrales_Def
+Posición: Central
+Percentil: 75.00000000000001
+Porcentaje de Jugadores: 50.0
+Variables destacadas:
+Recuperaciones: 4 jugadores top por encima del percentil 75
+Despejes: 3 jugadores top por encima del percentil 75
+Duelos aéreos ganados: 4 jugadores top por encima del percentil 75
+Conducciones: 4 jugadores top por encima del percentil 75
+Asistencias B.P: 3 jugadores top por encima del percentil 75
+Recuperaciones del equipo tras acción defensiva: 3 jugadores top por encima del percentil 75
+Pase OBV: 3 jugadores top por encima del percentil 75
+Pases J.D: 4 jugadores top por encima del percentil 75
+% Duelos: 3 jugadores top por encima del percentil 75
+% Acierto balón largo: 4 jugadores top por encima del percentil 75
+Bloqueos por tiro: 3 jugadores top por encima del percentil 75
+% Duelos aereos: 3 jugadores top por encima del percentil 75
+% Pases que son laterales: 6 jugadores top por encima del percentil 75
+% Pases que son hacia laterales ultimo tercio: 5 jugadores top por encima del percentil 75
+% Acierto pase: 6 jugadores top por encima del percentil 75
+% Acierto centros: 3 jugadores top por encima del percentil 75
+% Regates defendidos con exito: 4 jugadores top por encima del percentil 75
+
+Grupo: Pivote
+Posición: Pivote
+Percentil: 85.00000000000001
+Porcentaje de Jugadores: 50.0
+Variables destacadas:
+Pases JD Últ. Tercio: 3 jugadores top por encima del percentil 85
+Conducciones: 3 jugadores top por encima del percentil 85
+Asistencias B.P: 3 jugadores top por encima del percentil 85
+Progresiones profundas: 3 jugadores top por encima del percentil 85
+Tiro OBV: 5 jugadores top por encima del percentil 85
+Pases J.D: 3 jugadores top por encima del percentil 85
+% Acierto balón largo: 4 jugadores top por encima del percentil 85
+% Pases que son laterales: 3 jugadores top por encima del percentil 85
+% Pases que son hacia laterales ultimo tercio: 3 jugadores top por encima del percentil 85
+% Acierto pase: 5 jugadores top por encima del percentil 85
+% Tiros que son gol: 3 jugadores top por encima del percentil 85
+% Acierto pase presionado: 4 jugadores top por encima del percentil 85
+% Conducciones exitosas: 3 jugadores top por encima del percentil 85
+% Presiones tras pérdida en campo rival: 3 jugadores top por encima del percentil 85
+
+Grupo: BoxToBox
+Posición: BoxToBox
+Percentil: 65.0
+Porcentaje de Jugadores: 50.0
+Variables destacadas:
+Recuperaciones: 5 jugadores top por encima del percentil 65
+Tiros bloqueados: 3 jugadores top por encima del percentil 65
+Despejes: 3 jugadores top por encima del percentil 65
+Intercepciones: 3 jugadores top por encima del percentil 65
+Recuperaciones campo rival: 5 jugadores top por encima del percentil 65
+Entradas: 3 jugadores top por encima del percentil 65
+Pases JD Últ. Tercio: 4 jugadores top por encima del percentil 65
+Pases de ruptura: 3 jugadores top por encima del percentil 65
+Conducciones: 4 jugadores top por encima del percentil 65
+Asistencias J.D: 3 jugadores top por encima del percentil 65
+Pases clave J.D: 4 jugadores top por encima del percentil 65
+Faltas recibidas: 3 jugadores top por encima del percentil 65
+Presiones despues de pérdida: 3 jugadores top por encima del percentil 65
+Progresiones profundas: 4 jugadores top por encima del percentil 65
+OBV: 4 jugadores top por encima del percentil 65
+Conducción OBV : 5 jugadores top por encima del percentil 65
+Pase OBV: 4 jugadores top por encima del percentil 65
+Pases J.D: 4 jugadores top por encima del percentil 65
+% Acierto balón largo: 4 jugadores top por encima del percentil 65
+%Pases que son hacia adelante ultimo tercio: 3 jugadores top por encima del percentil 65
+% Pases que son hacia laterales ultimo tercio: 3 jugadores top por encima del percentil 65
+% Tiros a puerta: 3 jugadores top por encima del percentil 65
+% Acierto pase: 4 jugadores top por encima del percentil 65
+% Acierto pase presionado: 4 jugadores top por encima del percentil 65
+% Conducciones exitosas: 5 jugadores top por encima del percentil 65
+% Presiones tras pérdida en campo rival: 3 jugadores top por encima del percentil 65
+
+Grupo: MediaPunta
+Posición: Mediapunta
+Percentil: 65.0
+Porcentaje de Jugadores: 66.66666666666666
+Variables destacadas:
+Intercepciones: 4 jugadores top por encima del percentil 65
+Entradas: 4 jugadores top por encima del percentil 65
+Pases JD Últ. Tercio: 5 jugadores top por encima del percentil 65
+Pases de ruptura: 4 jugadores top por encima del percentil 65
+Conducciones: 4 jugadores top por encima del percentil 65
+Pases clave J.D: 4 jugadores top por encima del percentil 65
+Recuperaciones despues de pérdida: 4 jugadores top por encima del percentil 65
+Progresiones profundas: 4 jugadores top por encima del percentil 65
+Presiones tras pérdida campo rival: 4 jugadores top por encima del percentil 65
+Tiros NP: 4 jugadores top por encima del percentil 65
+OBV: 5 jugadores top por encima del percentil 65
+Conducción OBV : 4 jugadores top por encima del percentil 65
+Tiro OBV: 5 jugadores top por encima del percentil 65
+Pases J.D: 4 jugadores top por encima del percentil 65
+Regates: 4 jugadores top por encima del percentil 65
+% Acierto balón largo: 4 jugadores top por encima del percentil 65
+% Acierto pase: 6 jugadores top por encima del percentil 65
+% Tiros que son gol: 4 jugadores top por encima del percentil 65
+% Acierto pase presionado: 5 jugadores top por encima del percentil 65
+% Acierto regate: 5 jugadores top por encima del percentil 65
+% Regates defendidos con exito: 4 jugadores top por encima del percentil 65
+% Presiones en campo rival: 4 jugadores top por encima del percentil 65
+
+Grupo: Extremos_1vs1_profundos
+Posición: Extremo
+Percentil: 70.0
+Porcentaje de Jugadores: 66.66666666666666
+Variables destacadas:
+Pases JD Últ. Tercio: 4 jugadores top por encima del percentil 70
+Pases profundos: 5 jugadores top por encima del percentil 70
+OBV: 5 jugadores top por encima del percentil 70
+Conducción OBV : 6 jugadores top por encima del percentil 70
+Pase OBV: 5 jugadores top por encima del percentil 70
+Pases dentro del área: 6 jugadores top por encima del percentil 70
+Regates: 6 jugadores top por encima del percentil 70
+% Pases que son laterales: 4 jugadores top por encima del percentil 70
+% Pases que son hacia atrás ultimo tercio: 4 jugadores top por encima del percentil 70
+% Acierto pase presionado: 4 jugadores top por encima del percentil 70
+% Presiones en campo rival: 4 jugadores top por encima del percentil 70
+
+Grupo: Extremos_asociativos
+Posición: Extremo
+Percentil: 65.0
+Porcentaje de Jugadores: 83.33333333333334
+Variables destacadas:
+Pases clave J.D: 5 jugadores top por encima del percentil 65
+Tiro OBV: 5 jugadores top por encima del percentil 65
+% Tiros a puerta: 5 jugadores top por encima del percentil 65
+% Tiros que son gol: 5 jugadores top por encima del percentil 65
+% Acierto pase presionado: 5 jugadores top por encima del percentil 65
+% Presiones en campo rival: 5 jugadores top por encima del percentil 65
+
+Grupo: Delantero_Referencia
+Posición: Delantero
+Percentil: 70.0
+Porcentaje de Jugadores: 66.66666666666666
+Variables destacadas:
+Despejes: 4 jugadores top por encima del percentil 70
+Faltas recibidas: 4 jugadores top por encima del percentil 70
+Goles: 4 jugadores top por encima del percentil 70
+Tiros NP: 5 jugadores top por encima del percentil 70
+xG NP: 4 jugadores top por encima del percentil 70
+Acción defensiva OBV: 4 jugadores top por encima del percentil 70
+Tiro OBV: 4 jugadores top por encima del percentil 70
+% Duelos: 4 jugadores top por encima del percentil 70
+% Duelos aereos: 4 jugadores top por encima del percentil 70
+% Pases que son laterales: 5 jugadores top por encima del percentil 70
+% Toques en el área que son tiros: 4 jugadores top por encima del percentil 70
+% Regates defendidos con exito: 5 jugadores top por encima del percentil 70
+% Presiones en campo rival: 6 jugadores top por encima del percentil 70
+% Presiones tras pérdida en campo rival: 4 jugadores top por encima del percentil 70
+
+Grupo: Delantero_Asociativo
+Posición: Delantero
+Percentil: 80.00000000000001
+Porcentaje de Jugadores: 50.0
+Variables destacadas:
+Recuperaciones: 3 jugadores top por encima del percentil 80
+Tiros bloqueados: 4 jugadores top por encima del percentil 80
+Recuperaciones campo rival: 3 jugadores top por encima del percentil 80
+Asistencias J.D: 3 jugadores top por encima del percentil 80
+Asistencias B.P: 3 jugadores top por encima del percentil 80
+Presiones despues de pérdida: 3 jugadores top por encima del percentil 80
+Recuperaciones del equipo tras acción defensiva: 3 jugadores top por encima del percentil 80
+Presiones tras pérdida campo rival: 3 jugadores top por encima del percentil 80
+Tiros NP: 3 jugadores top por encima del percentil 80
+xG NP: 3 jugadores top por encima del percentil 80
+Tiro OBV: 4 jugadores top por encima del percentil 80
+% Conducciones exitosas: 4 jugadores top por encima del percentil 80
+
