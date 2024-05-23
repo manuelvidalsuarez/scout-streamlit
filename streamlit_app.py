@@ -123,9 +123,9 @@ comparacion = st.selectbox('Tipo de comparación:', ['Posición específica', 'P
 if metricas == 'Posición asociada' :
     st.warning(
         "Al seleccionar el método de selección de métricas asociado, ten en cuenta que las notas pueden variar. "
-        "En este caso el proceso partiría de los jugadores TOP pero seleccionaría las métricas en las que destacan"
-         "en comparación, no solo con los de su posición si no tambien con los de posiciones asociadas "
-        "Esto puede resultar en modificaciones en las notas debido a unas métricas más dgenéricas."
+        "En este caso el proceso partiría de los jugadores TOP pero seleccionaría las métricas en las que destacan "
+        "en comparación, no solo con los de su posición si no tambien con los de posiciones asociadas "
+        "Esto puede resultar en modificaciones en las notas debido a unas métricas más genéricas."
     )
 
 # Carga de datos
